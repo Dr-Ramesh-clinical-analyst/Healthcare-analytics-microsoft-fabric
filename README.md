@@ -31,7 +31,7 @@ The goal is to demonstrate practical skills in healthcare data analysis, data en
 - Power BI
 - GitHub
 
-  ## Dashboard Preview
+## Dashboard Preview
 
 ![Healthcare Readmission Analytics Dashboard](docs/dashboard-screenshots/healthcare-readmission-dashboard.png)
 
@@ -117,9 +117,17 @@ I am a clinical dentist with 10 years of experience, transitioning into healthca
 - [UCI Machine Learning Repository — Diabetes 130-US Hospitals](https://archive.ics.uci.edu/dataset/296/diabetes+130-us-hospitals+for+years+1999-2008)
 - [Microsoft Fabric documentation](https://learn.microsoft.com/en-us/fabric/)
 
-- ## Limitations
+ ## Limitations
 
 - This analysis is based on historical hospital encounter data and may not represent every healthcare setting.
 - Readmission patterns show associations, not proof of causation.
 - The dashboard summarizes aggregate results; patient-level clinical review would be needed before making care decisions.
 - The findings are intended for analytical and educational purposes, not as a clinical decision-making tool.
+
+ ## Future Enhancements
+
+- **Advanced Readmission Analysis:** Explore additional factors associated with 30-day readmissions.
+- **Interactive Dashboard Improvements:** Improve slicer interactions and cross-filtering between report visuals.
+- **Predictive Analytics:** Explore machine learning models to estimate readmission risk, subject to appropriate validation.
+- **Automated Data Refresh:** Extend the pipeline to support scheduled data refresh and validation checks.
+- **Deeper Clinical Insights:** Investigate patterns by patient demographics and other available clinical variables, where appropriate.

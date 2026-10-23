@@ -112,3 +112,10 @@ I am a clinical dentist with 10 years of experience, transitioning into healthca
 
 - [UCI Machine Learning Repository — Diabetes 130-US Hospitals](https://archive.ics.uci.edu/dataset/296/diabetes+130-us-hospitals+for+years+1999-2008)
 - [Microsoft Fabric documentation](https://learn.microsoft.com/en-us/fabric/)
+
+- ## Limitations
+
+- This analysis is based on historical hospital encounter data and may not represent every healthcare setting.
+- Readmission patterns show associations, not proof of causation.
+- The dashboard summarizes aggregate results; patient-level clinical review would be needed before making care decisions.
+- The findings are intended for analytical and educational purposes, not as a clinical decision-making tool.

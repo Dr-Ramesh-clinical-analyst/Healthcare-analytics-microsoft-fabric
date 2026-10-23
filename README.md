@@ -1,6 +1,17 @@
 ## Dashboard Preview
 
 ![Healthcare Readmission Analytics Dashboard](docs/dashboard-screenshots/healthcare-readmission-dashboard.png)
+
+## Key Findings & Business Insights
+
+- **Total Encounters:** 101,766 hospital encounters were analyzed.
+- **30-Day Readmissions:** 11,357 encounters resulted in readmission within 30 days, representing **11.16%** of all encounters.
+- **Readmission Categories:** 53.91% had no recorded readmission, 34.93% were readmitted after 30 days, and 11.16% were readmitted within 30 days.
+- **Length-of-Stay Analysis:** The dashboard enables comparison of encounter volumes and 30-day readmissions across hospital stays of different lengths.
+- **Business Value:** These insights can help healthcare teams explore readmission patterns and identify areas for further investigation in discharge planning and follow-up care.
+
+**Note:** These findings describe historical data and do not establish that length of stay causes readmission.
+
 # Healthcare-analytics-microsoft-fabric
 End-to-end healthcare data engineering and analytics using Microsoft Fabric, PySpark, SQL, Lakehouse medallion architecture, and Power BI to transform clinical encounter data into actionable healthcare insights.
 # Healthcare Data Engineering and Analytics with Microsoft Fabric

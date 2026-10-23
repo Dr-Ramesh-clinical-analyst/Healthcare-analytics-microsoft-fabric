@@ -106,7 +106,7 @@ healthcare-analytics-microsoft-fabric/
 
 ## Project Status
 
-**In progress** — repository setup and project planning.
+**Core analytics and dashboard completed** — Microsoft Fabric data processing, Gold-layer analytics, validation, and the Power BI dashboard are built. GitHub documentation and final repository polish are in progress.
 
 ## About the Author
 
